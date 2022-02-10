@@ -3,7 +3,7 @@
 $sMetadataVersion = '2.1';
 
 $aModule = [
-    'id'           => 'myvendor_mytestmodule',
+    'id'           => 'oe_mmtest',
     'title'        => 'Test metadata controllers feature',
     'description'  => '',
     'thumbnail'    => 'picture.png',
